@@ -1,1 +1,1 @@
-# Invere-Kinematics-Solutions-by-Neural-Network
+# Inverse-Kinematics-Solutions-by-Neural-Network
